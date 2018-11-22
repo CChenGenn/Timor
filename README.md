@@ -1,1 +1,1 @@
-# Timor is a cute hero
+# Timor is a cute hero.
